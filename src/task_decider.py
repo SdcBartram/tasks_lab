@@ -13,13 +13,3 @@ def get_preferred_option(task_1, task_2):
         return "Clean Windows"
 
     return "No preferred option"
-
-    # return preferred task
-
-    # if options = "Wash Dishes" and "Cook Dinner"
-    #  then retutn "Wash Dishes"
-    # if options = "Wash Dishes" and "Clean Windows"
-    #  then retutn "Clean Windows"
-    # if options = "Clean Windows" and "Cook Dinner"
-    #  then retutn "Cook Dinner"
-    # return "Wash Dishes"
