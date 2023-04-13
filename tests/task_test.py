@@ -2,6 +2,7 @@ import unittest
 from src.task import *
 from src.task_decider import *
 
+
 class TestTask(unittest.TestCase):
     def setUp(self):
         self.task1 = Task("Wash Dishes", 30)
